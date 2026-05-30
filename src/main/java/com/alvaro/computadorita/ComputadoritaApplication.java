@@ -1,4 +1,4 @@
-package com.miguel.computadorita;
+package com.alvaro.computadorita;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
