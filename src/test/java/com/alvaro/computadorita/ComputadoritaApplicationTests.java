@@ -1,6 +1,6 @@
-package com.miguel.computadorita;
+package com.alvaro.computadorita;
 
-import com.miguel.computadorita.Tools.Calculadora;
+import com.alvaro.computadorita.Tools.Calculadora;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
