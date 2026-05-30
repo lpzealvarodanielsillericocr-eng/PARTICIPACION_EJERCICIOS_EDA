@@ -1,8 +1,8 @@
-package com.miguel.computadorita.Controllers;
+package com.alvaro.computadorita.Controllers;
 
-import com.miguel.computadorita.Models.ExpresionRequest;
-import com.miguel.computadorita.Models.ExpresionResponse;
-import com.miguel.computadorita.Tools.Calculadora;
+import com.alvaro.computadorita.Models.ExpresionRequest;
+import com.alvaro.computadorita.Models.ExpresionResponse;
+import com.alvaro.computadorita.Tools.Calculadora;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
