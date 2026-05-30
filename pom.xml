@@ -8,7 +8,7 @@
 		<version>3.4.1</version>
 		<relativePath/>
 	</parent>
-	<groupId>com.miguel</groupId>
+	<groupId>com.alvaro</groupId>
 	<artifactId>computadorita</artifactId>
 	<version>1.0.0</version>
 	<name>computadorita</name>
